@@ -1,6 +1,6 @@
 # docker-jenkins-plugins
 
-docker-jenkins-plugins with the following plugins enabled:
+docker-jenkins-plugins with the following plugins enabled
  * docker-plugin
  * docker-slaves
  * ansible
